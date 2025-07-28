@@ -466,13 +466,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - **Natural Language Processing**: NLTK
 - **Machine Learning**: PyTorch
 
-## 📞 Support
-
-For questions, issues, or contributions:
-- **Issues**: Open a GitHub issue
-- **Documentation**: Check the wiki
-- **Email**: contact@yourproject.com
-
 ---
 
 **Built with ❤️ for intelligent document analysis**
