@@ -123,8 +123,8 @@ def extract_title_and_outline(pdf_path):
 
 def process_pdfs():
     """Process all PDFs in input directory and save JSON outputs"""
-    input_dir = "D:\AIH\sample_datasets\pdfs"
-    output_dir = "D:\AIH\sample_datasets\outputs"
+    input_dir = "/app/sample_datasets/pdfs"
+    output_dir = "/app/sample_datasets/outputs"
 
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
